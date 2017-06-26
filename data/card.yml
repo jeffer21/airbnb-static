@@ -1,0 +1,15 @@
+- name: Seb's Home
+  background: card-paris.jpg
+  card_category: Paris
+  card_description: Charming room with patio
+  avatar: seb.jpg
+- name: Anne's Home
+  background: card-brussels.jpeg
+  card_categoy: Brussels
+  card_description: Lovely house
+  avatar: anne.jpg
+- name: Romain's Home
+  background: card-london.jpeg
+  card_categoy: London
+  card_description: Nice flat in Piccadilly
+  avatar: romain.jpeg
